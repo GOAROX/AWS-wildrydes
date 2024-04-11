@@ -1,5 +1,6 @@
 # AWS-wildrydes
-An AWS project that utilizes many AWS technologies like AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, Amazon DynamoDB, etc
+An AWS project that utilizes many AWS technologies like AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, Amazon DynamoDB, etc.
+The project has been done using AWS Free Tier and has hence been pulled down.
 
 This entire project is modified and set up to work in cohesion with AWS services, hence It more than likely won't work if you just try to pull and run.
 
